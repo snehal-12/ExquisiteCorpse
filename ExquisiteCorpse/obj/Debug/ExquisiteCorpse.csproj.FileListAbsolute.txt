@@ -1,0 +1,7 @@
+C:\Users\vijay\desktop\ExquisiteCorpse\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.csprojAssemblyReference.cache
+C:\Users\vijay\desktop\ExquisiteCorpse\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.csproj.CoreCompileInputs.cache
+C:\Users\vijay\desktop\ExquisiteCorpse\ExquisiteCorpse\bin\Debug\ExquisiteCorpse.exe.config
+C:\Users\vijay\desktop\ExquisiteCorpse\ExquisiteCorpse\bin\Debug\ExquisiteCorpse.exe
+C:\Users\vijay\desktop\ExquisiteCorpse\ExquisiteCorpse\bin\Debug\ExquisiteCorpse.pdb
+C:\Users\vijay\desktop\ExquisiteCorpse\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.exe
+C:\Users\vijay\desktop\ExquisiteCorpse\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.pdb
